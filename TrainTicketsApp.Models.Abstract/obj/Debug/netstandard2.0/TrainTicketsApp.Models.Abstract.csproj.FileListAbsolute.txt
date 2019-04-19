@@ -1,0 +1,9 @@
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\bin\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.deps.json
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\bin\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.dll
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\bin\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.pdb
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\obj\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.csprojAssemblyReference.cache
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\obj\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.csproj.CoreCompileInputs.cache
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\obj\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.AssemblyInfoInputs.cache
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\obj\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.AssemblyInfo.cs
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\obj\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.dll
+C:\Users\Shipa\source\repos\TrainTicketsApp\TrainTicketsApp.Models.Abstract\obj\Debug\netstandard2.0\TrainTicketsApp.Models.Abstract.pdb
